@@ -1,19 +1,5 @@
 AGENDA ={}
 
-'''
-AGENDA["matheus"] = {
-    "telefone": "958611303",
-    "email": "maasantos2011_3@live.com",
-    "endereco": "julio de mesquita filho 70A",
-}
-
-AGENDA["gabrieli"] = {
-    "telefone": "963616675",
-    "email": "srtathemy@gmail.com",
-    "endereco": "julio de mesquita filho 70A",
-}
-'''
-
 
 def mostrar_agenda():
     print("               Contatos                       ")
